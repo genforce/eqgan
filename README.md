@@ -106,11 +106,11 @@ The models for the LSUN Cat and LSUN Bedroom dataset have been available (25M tr
 We are retraining models for other two datasets to ensure reproduction, because the released code is slightly different from the version during submission. For example, the synthesis quality of the provided LSUN Cat model is a bit better than the result we reported in the paper, i.e., 6.62 vs 6.81.
 
 | Model | FID | Link 
-| :------: | :------: | :--------: | :--------: 
+| :------: | :------: | :--------: 
 | LSUN Cat    | 6.62     | [link](https://www.dropbox.com/s/ajuk1gqty0hcfk0/cat.pkl?dl=0) 
 | LSUN Bedroom | 2.95 | [link](https://www.dropbox.com/s/ln6joaujcaktib7/bedroom.pkl?dl=0) 
-| LSUN Church    |   -  | Coming  |
-| FFHQ   |   -   | Coming  |
+| LSUN Church    |   -  | Coming  
+| FFHQ   |   -   | Coming  
 
 
 ## Acknowledgement
