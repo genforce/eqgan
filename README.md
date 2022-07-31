@@ -101,7 +101,7 @@ python generate.py --outdir=out --trunc=1 --seeds=85,265,297 --network=ckpt/cat.
 
 ## Pretrained Models
 
-The models for the LSUN Cat and LSUN Bedroom dataset have been available (25M training iterations). 
+The models for the LSUN Cat and LSUN Bedroom dataset have been available (25M training iterations). The model for LSUN Bedroom was not discussed in the paper, while we provide it here to show our idea also works for indoor scenes.
 
 We are retraining models for other two datasets to ensure reproduction, because the released code is slightly different from the version during submission. For example, the synthesis quality of the provided LSUN Cat model is a bit better than the result we reported in the paper, i.e., 6.62 vs 6.81.
 
