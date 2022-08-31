@@ -101,16 +101,17 @@ python generate.py --outdir=out --trunc=1 --seeds=85,265,297 --network=ckpt/cat.
 
 ## Pretrained Models
 
-The models for the LSUN Cat and LSUN Bedroom dataset have been available (25M training iterations). The model for LSUN Bedroom was not discussed in the paper, while we provide it here to show our idea also works for indoor scenes.
+The models for the LSUN Cat, LSUN Bedroom, and FFHQ dataset have been available (25M training iterations). The model for LSUN Bedroom was not discussed in the paper, while we provide it here to show our idea also works for indoor scenes.
 
-We are retraining models for other two datasets to ensure reproduction, because the released code is slightly different from the version during submission. For example, the synthesis quality of the provided LSUN Cat model is a bit better than the result we reported in the paper, i.e., 6.62 vs 6.81.
+We are retraining models for LSUN Church to ensure reproduction, because the released code is slightly different from the version during submission. For example, the synthesis quality of the provided LSUN Cat model is a bit better than the result we reported in the paper, i.e., 6.62 vs 6.81 on LSUN Cat.
 
 | Model | FID | Link 
 | :------: | :------: | :--------: 
 | LSUN Cat    | 6.62     | [link](https://www.dropbox.com/s/ajuk1gqty0hcfk0/cat.pkl?dl=0) 
 | LSUN Bedroom | 2.95 | [link](https://www.dropbox.com/s/ln6joaujcaktib7/bedroom.pkl?dl=0) 
+| FFHQ   |   2.89   | [link](https://www.dropbox.com/s/q7o3pjb08yev5ex/ffhq.pkl?dl=0)   
 | LSUN Church    |   -  | Coming  
-| FFHQ   |   -   | Coming  
+
 
 
 ## Acknowledgement
