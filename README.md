@@ -129,6 +129,5 @@ Thanks Janne Hellsten and Tero Karras for their excellent codebase [styleGAN2-ad
     month     = {June},
     year      = {2022},
     pages     = {11285-11293}
-}    = {2021}
 }
 ```
