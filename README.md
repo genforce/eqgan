@@ -122,10 +122,13 @@ Thanks Janne Hellsten and Tero Karras for their excellent codebase [styleGAN2-ad
 ## BibTeX
 
 ```bibtex
-@article{wang2021eqgan,
-  title   = {Improving GAN Equilibrium by Raising Spatial Awareness},
-  author  = {Wang, Jianyuan and Yang, Ceyuan and Xu, Yinghao and Shen, Yujun and Li, Hongdong and Zhou, Bolei},
-  article = {arXiv preprint arXiv: 2112.00718},
-  year    = {2021}
+@InProceedings{Wang_2022_CVPR,
+    author    = {Wang, Jianyuan and Yang, Ceyuan and Xu, Yinghao and Shen, Yujun and Li, Hongdong and Zhou, Bolei},
+    title     = {Improving GAN Equilibrium by Raising Spatial Awareness},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {11285-11293}
+}    = {2021}
 }
 ```
