@@ -110,7 +110,7 @@ We are retraining models for LSUN Church to ensure reproduction, because the rel
 | LSUN Cat    | 6.62     | [link](https://www.dropbox.com/s/ajuk1gqty0hcfk0/cat.pkl?dl=0) 
 | LSUN Bedroom | 2.95 | [link](https://www.dropbox.com/s/ln6joaujcaktib7/bedroom.pkl?dl=0) 
 | FFHQ   |   2.89   | [link](https://www.dropbox.com/s/q7o3pjb08yev5ex/ffhq.pkl?dl=0)   
-| LSUN Church    |   -  | Coming  
+| LSUN Church    |   3.02  | [link](https://www.dropbox.com/s/p5pry3ci3ujdzp6/church.pkl?dl=0)  
 
 
 
