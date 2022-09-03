@@ -14,17 +14,6 @@ In Generative Adversarial Networks (GANs), a generator (G) and a discriminator (
 
 To alleviate the issue of D dominating the competition in GANs, we aim to raise the spatial awareness of G. We encode randomly sampled multi-level heatmaps into the intermediate layers of G as an inductive bias. We further propose to align the spatial awareness of G with the attention map induced from D. Through this way we effectively lessen the information gap between D and G. Extensive results show that our method pushes the two-player game in GANs closer to the equilibrium, leading to a better synthesis performance. As a byproduct, the introduced spatial awareness facilitates interactive editing over the output synthesis.  </div>
 
-## TODO
-
-:white_check_mark: Training Code
-
-:white_check_mark: Training Script
-
-:white_check_mark: Check the Code 
-
-:white_check_mark: Pretrained Model
-
-- [ ] User Interface
 
 
 ## Environment
@@ -112,6 +101,17 @@ We are retraining models for LSUN Church to ensure reproduction, because the rel
 | FFHQ   |   2.89   | [link](https://www.dropbox.com/s/q7o3pjb08yev5ex/ffhq.pkl?dl=0)   
 | LSUN Church    |   3.02  | [link](https://www.dropbox.com/s/p5pry3ci3ujdzp6/church.pkl?dl=0)  
 
+## TODO
+
+:white_check_mark: Training Code
+
+:white_check_mark: Training Script
+
+:white_check_mark: Check the Code 
+
+:white_check_mark: Pretrained Model
+
+- [ ] User Interface
 
 
 ## Acknowledgement
